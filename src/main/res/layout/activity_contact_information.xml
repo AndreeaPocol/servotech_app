@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.servotech.MainActivity">
+
+
+    <ImageView
+        android:layout_height="wrap_content"
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:src="@drawable/banner" />
+
+
+    <TextView
+        android:paddingLeft="16dp"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:id="@+id/title1"
+        android:textSize="30sp"
+        android:layout_width="match_parent"
+        android:text="Contact Information"
+        android:textAlignment="center"
+        android:textStyle="bold" />
+
+
+    <ImageView
+        android:padding="16dp"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:id="@+id/image1"
+        android:layout_width="match_parent"
+        android:src="@drawable/env123" />
+
+
+    <TextView
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:id="@+id/firstTextBody"
+        android:layout_width="match_parent"
+        android:text="@string/Mail" />
+
+
+    <ImageView
+        android:padding="16dp"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:id="@+id/image2"
+        android:layout_width="match_parent"
+        android:src="@drawable/telly123" />
+
+    <TextView
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:id="@+id/secondTextBody"
+        android:layout_width="match_parent"
+        android:text="@string/Tel" />
+
+    <ImageView
+        android:padding="16dp"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:id="@+id/image3"
+        android:layout_width="match_parent"
+        android:src="@drawable/eml123" />
+
+    <TextView
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:id="@+id/thirdTextBody"
+        android:layout_width="match_parent"
+        android:text="@string/Email" />
+
+
+</LinearLayout>

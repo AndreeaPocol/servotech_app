@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">ServoTech</string>
+
+    <string name="welcome">"Welcome to ServoTech Electronics!"</string>
+
+    <string name="getStarted">"Learn more!"</string>
+
+    <string name="whatWeOffer">Repairs to ALL BRANDS of Industrial Electronics
+        \nExperienced Engineers and Dedicated Technicians
+        \nCustomer Driven Service to Address All Problems
+        \nRelationship Based Service for Continued Support
+        \nOnline Job Tracking and Service Reports</string>
+
+
+    <string name="whyUseOurServices">
+        OEM Quality for Half the Cost
+        \nFast Turnaround Time
+        \nSatisfaction Guaranteed on Every Repair
+        \nLowest Price in the Industry Guaranteed
+        \nRepair and Save while your Competition Buys New and Spends</string>
+
+    <string name="ContactInfo">Contact Information</string>
+    <string name="Mail">5-140 McGovern Drive
+        \nCambridge, Ontario
+        \nN3H 4R7, Canada
+    </string>
+
+    <string name="Tel">
+        Telephone: 519-342-6641
+        \nFax: 1-866-866-9424
+        \nEmergency Telephone: 519-342-6641
+    </string>
+
+    <string name="Email">
+        Email: info@servotech.ca
+    </string>
+
+    <string name="aboutUs">The mission of ServoTech Electronics is to support the manufacturing industry through high quality, low-cost services in the electronics repair field. Services such as repair, maintenance and upgrades are implemented by our experienced engineers at a competitive price.
+</string>
+
+    <string name="EngSpec">Motion Control
+\nElectro-mechanical devices
+\nElectromagnetics
+\nComputer systems
+\nComputer architecture
+\nControl Systems
+\nServo technology
+\nSwitching technology
+\nPLC/CNC Technology
+\nElectronics design
+\nElectronics manufacturing</string>
+
+    <string name="design">
+Experimental Board Design
+        \nOne-of Design
+        \nDesign for Production
+    </string>
+
+    <string name="weCanDesign">
+        We can design any electronic circuit you request. All we need to know is what you need it to do.
+        If you have a need for electronic design services at a reasonable price contact us today.
+        \n
+        \nCall Us At: (519)342-6641.</string>
+
+    <string name="bottomLine">
+        © Copyright ServoTech Electronics
+        \n\n5-140 McGovern Dr, Cambridge, Ontario, N3H 4R7
+        \nTel: 519-342-6641 ■ Fax: 1-866-866-9424</string>
+</resources>
