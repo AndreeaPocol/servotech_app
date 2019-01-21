@@ -33,6 +33,40 @@
         android:layout_width="match_parent"
         android:text="@string/aboutUs"/>
 
+    <ImageView
+        android:layout_height="wrap_content"
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:src="@drawable/banner" />
+
+    <TextView
+        android:paddingLeft="16dp"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:layout_width="match_parent"
+        android:text="What We Offer"/>
+
+    <TextView
+        android:paddingLeft="16dp"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:layout_width="match_parent"
+        android:text="@string/whatWeOffer"/>
+
+    <TextView
+        android:paddingLeft="16dp"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:layout_width="match_parent"
+        android:text="Why Use Our Services"/>
+
+    <TextView
+        android:paddingLeft="16dp"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:layout_width="match_parent"
+        android:text="@string/whyUseOurServices"/>
+
     <TextView
         android:paddingLeft="16dp"
         android:layout_height="wrap_content"
