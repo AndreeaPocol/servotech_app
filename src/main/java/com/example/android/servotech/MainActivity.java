@@ -33,10 +33,6 @@ public class MainActivity extends AppCompatActivity {
 
     public Button startButton;
 
-    private SectionsPageAdapter mSectionsPageAdapter;
-
-    private ViewPager mViewPager;
-
 
     public void init() {
         startButton = (Button)findViewById(R.id.startButton);
