@@ -58,7 +58,7 @@ public class ServoTechGetStarted extends AppCompatActivity {
     private void setupViewPager(ViewPager viewPager) {
         SectionsPageAdapter adapter = new SectionsPageAdapter(getSupportFragmentManager());
         adapter.addFragment(new AboutTabFragment(), "about");
-        adapter.addFragment(new AboutTabFragment(), "contact");
+        adapter.addFragment(new ContactTabFragment(), "contact");
         viewPager.setAdapter(adapter);
     }
 }
